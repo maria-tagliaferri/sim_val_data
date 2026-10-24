@@ -1,0 +1,173 @@
+
+Trial 1  [no_torque]  (#1 of 25)
+   >>> SET CONDITION: NO_TORQUE <<<
+   LEVEL 9.5   (vel 0.48 m/s, accel 2.38 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 2  [no_torque]  (#2 of 25)
+   >>> SET CONDITION: NO_TORQUE <<<
+   LEVEL 10.5   (vel 0.53 m/s, accel 2.62 m/s^2)
+   lost balance? y / n  (q to quit): y
+
+Trial 3  [no_torque]  (#3 of 25)
+   >>> SET CONDITION: NO_TORQUE <<<
+   LEVEL 10.0   (vel 0.50 m/s, accel 2.50 m/s^2)
+   lost balance? y / n  (q to quit): y
+
+Trial 4  [sim_torque]  (#1 of 25)
+   >>> SET CONDITION: SIM_TORQUE <<<
+   LEVEL 9.5   (vel 0.48 m/s, accel 2.38 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 5  [sim_torque]  (#2 of 25)
+   >>> SET CONDITION: SIM_TORQUE <<<
+   LEVEL 10.5   (vel 0.53 m/s, accel 2.62 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 6  [sim_torque]  (#3 of 25)
+   >>> SET CONDITION: SIM_TORQUE <<<
+   LEVEL 11.0   (vel 0.55 m/s, accel 2.75 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 7  [no_torque]  (#4 of 25)
+   >>> SET CONDITION: NO_TORQUE <<<
+   LEVEL 9.5   (vel 0.48 m/s, accel 2.38 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 8  [sim_torque]  (#4 of 25)
+   >>> SET CONDITION: SIM_TORQUE <<<
+   LEVEL 11.0   (vel 0.55 m/s, accel 2.75 m/s^2)
+   lost balance? y / n  (q to quit): y
+
+Trial 9  [no_torque]  (#5 of 25)
+   >>> SET CONDITION: NO_TORQUE <<<
+   LEVEL 10.0   (vel 0.50 m/s, accel 2.50 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 10  [sim_torque]  (#5 of 25)
+   >>> SET CONDITION: SIM_TORQUE <<<
+   LEVEL 11.0   (vel 0.55 m/s, accel 2.75 m/s^2)
+   lost balance? y / n  (q to quit): y
+
+Trial 11  [sim_torque]  (#6 of 25)
+   >>> SET CONDITION: SIM_TORQUE <<<
+   LEVEL 10.5   (vel 0.53 m/s, accel 2.62 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 12  [no_torque]  (#6 of 25)
+   >>> SET CONDITION: NO_TORQUE <<<
+   LEVEL 10.0   (vel 0.50 m/s, accel 2.50 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 13  [no_torque]  (#7 of 25)
+   >>> SET CONDITION: NO_TORQUE <<<
+   LEVEL 10.5   (vel 0.53 m/s, accel 2.62 m/s^2)
+   lost balance? y / n  (q to quit): y
+
+Trial 14  [no_torque]  (#8 of 25)
+   >>> SET CONDITION: NO_TORQUE <<<
+   LEVEL 10.0   (vel 0.50 m/s, accel 2.50 m/s^2)
+   lost balance? y / n  (q to quit): y
+
+Trial 15  [sim_torque]  (#7 of 25)
+   >>> SET CONDITION: SIM_TORQUE <<<
+   LEVEL 11.0   (vel 0.55 m/s, accel 2.75 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 16  [sim_torque]  (#8 of 25)
+   >>> SET CONDITION: SIM_TORQUE <<<
+   LEVEL 11.0   (vel 0.55 m/s, accel 2.75 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 17  [sim_torque]  (#9 of 25)
+   >>> SET CONDITION: SIM_TORQUE <<<
+   LEVEL 11.5   (vel 0.58 m/s, accel 2.88 m/s^2)
+   lost balance? y / n  (q to quit): y
+
+Trial 18  [no_torque]  (#9 of 25)
+   >>> SET CONDITION: NO_TORQUE <<<
+   LEVEL 10.0   (vel 0.50 m/s, accel 2.50 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 19  [sim_torque]  (#10 of 25)
+   >>> SET CONDITION: SIM_TORQUE <<<
+   LEVEL 11.0   (vel 0.55 m/s, accel 2.75 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 20  [no_torque]  (#10 of 25)
+   >>> SET CONDITION: NO_TORQUE <<<
+   LEVEL 10.0   (vel 0.50 m/s, accel 2.50 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 21  [no_torque]  (#11 of 25)
+   >>> SET CONDITION: NO_TORQUE <<<
+   LEVEL 10.0   (vel 0.50 m/s, accel 2.50 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 22  [no_torque]  (#12 of 25)
+   >>> SET CONDITION: NO_TORQUE <<<
+   LEVEL 10.5   (vel 0.53 m/s, accel 2.62 m/s^2)
+   lost balance? y / n  (q to quit): y
+
+Trial 23  [sim_torque]  (#11 of 25)
+   >>> SET CONDITION: SIM_TORQUE <<<
+   LEVEL 11.5   (vel 0.58 m/s, accel 2.88 m/s^2)
+   lost balance? y / n  (q to quit): y
+
+Trial 24  [no_torque]  (#13 of 25)
+   >>> SET CONDITION: NO_TORQUE <<<
+   LEVEL 10.0   (vel 0.50 m/s, accel 2.50 m/s^2)
+   lost balance? y / n  (q to quit): y
+
+Trial 25  [sim_torque]  (#12 of 25)
+   >>> SET CONDITION: SIM_TORQUE <<<
+   LEVEL 11.0   (vel 0.55 m/s, accel 2.75 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 26  [sim_torque]  (#13 of 25)
+   >>> SET CONDITION: SIM_TORQUE <<<
+   LEVEL 11.5   (vel 0.58 m/s, accel 2.88 m/s^2)
+   lost balance? y / n  (q to quit): y
+
+Trial 27  [sim_torque]  (#14 of 25)
+   >>> SET CONDITION: SIM_TORQUE <<<
+   LEVEL 11.0   (vel 0.55 m/s, accel 2.75 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 28  [no_torque]  (#14 of 25)
+   >>> SET CONDITION: NO_TORQUE <<<
+   LEVEL 10.0   (vel 0.50 m/s, accel 2.50 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 29  [no_torque]  (#15 of 25)
+   >>> SET CONDITION: NO_TORQUE <<<
+   LEVEL 10.0   (vel 0.50 m/s, accel 2.50 m/s^2)
+   lost balance? y / n  (q to quit): y
+
+Trial 30  [sim_torque]  (#15 of 25)
+   >>> SET CONDITION: SIM_TORQUE <<<
+   LEVEL 11.5   (vel 0.58 m/s, accel 2.88 m/s^2)
+   lost balance? y / n  (q to quit): y
+
+Trial 31  [sim_torque]  (#16 of 25)
+   >>> SET CONDITION: SIM_TORQUE <<<
+   LEVEL 11.0   (vel 0.55 m/s, accel 2.75 m/s^2)
+   lost balance? y / n  (q to quit): y
+
+Trial 32  [sim_torque]  (#17 of 25)
+   >>> SET CONDITION: SIM_TORQUE <<<
+   LEVEL 11.0   (vel 0.55 m/s, accel 2.75 m/s^2)
+   lost balance? y / n  (q to quit): n
+
+Trial 33  [no_torque]  (#16 of 25)
+   >>> SET CONDITION: NO_TORQUE <<<
+   LEVEL 10.0   (vel 0.50 m/s, accel 2.50 m/s^2)
+   lost balance? y / n  (q to quit): q
+
+==== thresholds ====
+no_torque : threshold level = 10.08 +/- 0.35   (n=15)
+sim_torque: threshold level = 11.17 +/- 0.33   (n=17)
+
+exo effect (sim_torque - no_torque) = +1.09 levels
+
+saved: quest_rajiv_trials.csv  and  quest_rajiv_summary.csv

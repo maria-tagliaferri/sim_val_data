@@ -1,0 +1,13 @@
+level,outcome,n_torque,n_no_torque,diff_peak_disp_cm,diff_t_peak_disp_s,diff_peak_vel_cm_s,diff_mean_disp_0_1.5s_cm,levels_torque,levels_no_torque
+9.5,successful,1,2,-1.223537607638212,0.0,-5.617747033185694,-2.565636814976043,,
+9.5,unsuccessful,0,0,,,,,,
+10.0,successful,0,6,,,,,,
+10.0,unsuccessful,0,4,,,,,,
+10.5,successful,2,0,,,,,,
+10.5,unsuccessful,0,3,,,,,,
+11.0,successful,7,0,,,,,,
+11.0,unsuccessful,3,0,,,,,,
+11.5,successful,0,0,,,,,,
+11.5,unsuccessful,4,0,,,,,,
+pooled,successful,10,8,0.8644836396582622,0.04575000000000018,-2.6031059058766033,-0.2947064763569145,9.5 10.5 11,9.5 10
+pooled,unsuccessful,7,7,-0.7485246853057674,0.06714285714285717,-1.2635171601195339,-0.3460856887528157,11 11.5,10 10.5

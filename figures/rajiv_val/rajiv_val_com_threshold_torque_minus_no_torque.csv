@@ -1,0 +1,3 @@
+outcome,n_torque_L11,n_no_torque_L10,diff_peak_disp_cm,diff_t_peak_disp_s,diff_peak_vel_cm_s,diff_mean_disp_0_1.5s_cm
+successful,7,6,1.2864294228659912,0.056428571428571495,-2.2464415110352505,0.07989911408411338
+unsuccessful,3,4,-0.5683087161812175,0.0,-0.3796106457126882,-0.1412801211311619
